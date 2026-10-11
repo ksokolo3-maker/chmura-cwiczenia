@@ -1,0 +1,5 @@
+- Samoobsluga - klikam i jest
+- Szeroki dostep - tworzenie maszyn wyirtualnych jest mozliwe przez przegladarke czy tez api
+- Wspolna pula zasobow - pozawala na ogarniczenie kosztow.
+- Wysoka elastycznosc - zasoby sa przydzielane na rzadanie
+- Usluga mierzona - pozwala placic za tylko tyle ile sie korzysta
